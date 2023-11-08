@@ -14,10 +14,10 @@
         transition:all 0.4s;
     }
     .nav-item a:hover{
-        color:whitesmoke;
+        color:purple;
     }
     .navbar-brand{
-        height:70px;
+        height:100px;
         width:100px;
     }
     .main{
